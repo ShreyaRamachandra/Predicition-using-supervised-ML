@@ -1,6 +1,6 @@
 # Predicition-using-supervised-ML
 
-⦿ To predict the percentage of students based on number of hours studied using linear regression. 
+⦿ To predict the percentage of students based on a number of hours studied using linear regression. 
 
 ⦿ Languages: Python
 
